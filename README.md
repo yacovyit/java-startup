@@ -1,1 +1,1 @@
-# javaj-startup
+# java-startup
