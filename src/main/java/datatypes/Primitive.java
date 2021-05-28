@@ -77,7 +77,7 @@ public class Primitive {
 
         //region char ['\u0000', '\uffff'] or from [0, 65,535]
         // https://unicode-table.com/en/#basic-latin
-        printAllChars();
+        //printAllChars();
         //endregion
     }
 
